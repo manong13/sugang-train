@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 import {mapdata} from './map.js';
-require('./app.css');
+import'./app.css';
 class  Pushbox extends React.Component{
     constructor(props){
 		super(props);

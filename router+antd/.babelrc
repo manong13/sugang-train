@@ -1,0 +1,4 @@
+{
+    "plugins":[["import", { "libraryName": "antd","style": true}],"transform-runtime"],
+    "presets":["es2015","stage-0","react"]
+}
